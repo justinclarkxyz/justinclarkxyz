@@ -3,6 +3,7 @@ title: My Workflow
 date: 2020-06-29T13:07:35.854Z
 draft: false
 featured: false
+diagram: true
 tags:
   - workflow
   - zettlr
